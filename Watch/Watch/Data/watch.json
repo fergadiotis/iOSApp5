@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Silver",
+    "image": "watch-classic-silver",
+    "price": 299,
+    "description": "A timeless silver watch with genuine leather strap. This elegant timepiece features a minimalist design with a clean white dial, silver hour markers, and a durable stainless steel case. Perfect for both formal and casual occasions, the Classic Silver watch combines traditional craftsmanship with modern reliability for a truly versatile accessory.",
+    "color": [0.8, 0.8, 0.85],
+    "features": ["Stainless steel case", "Genuine leather strap", "Water resistant to 30m", "Sapphire crystal glass", "Japanese quartz movement"]
+  },
+  {
+    "id": 2,
+    "name": "Luxury Gold",
+    "image": "watch-luxury-gold",
+    "price": 599,
+    "description": "An exquisite gold-plated watch that exudes luxury. This premium timepiece features a sophisticated champagne dial with roman numerals, a date window at 3 o'clock, and a polished gold-tone stainless steel bracelet. The Luxury Gold watch is a statement of refinement, designed for those who appreciate the finer things in life.",
+    "color": [0.95, 0.78, 0.37],
+    "features": ["18K gold-plated case", "Stainless steel bracelet", "Water resistant to 50m", "Scratch-resistant sapphire crystal", "Swiss automatic movement", "Date display"]
+  },
+  {
+    "id": 3,
+    "name": "Sport Black",
+    "image": "watch-sport-black",
+    "price": 249,
+    "description": "A rugged sport watch designed for active lifestyles. This durable timepiece features a black silicone strap, bright luminous hands and markers, and multiple chronograph dials for precise timing. Water-resistant and shock-resistant, the Sport Black watch is the perfect companion for your athletic pursuits and outdoor adventures.",
+    "color": [0.2, 0.2, 0.2],
+    "features": ["Durable black case", "Silicone sport strap", "Water resistant to 100m", "Chronograph function", "Luminous hands and markers", "Tachymeter bezel"]
+  },
+  {
+    "id": 4,
+    "name": "Casual Brown",
+    "image": "watch-casual-brown",
+    "price": 199,
+    "description": "A versatile casual watch with a warm brown leather strap. This comfortable timepiece features a simple brown dial with gold-tone accents, a date window, and a sleek stainless steel case. The Casual Brown watch blends effortlessly with your everyday wardrobe, offering reliable timekeeping with understated style.",
+    "color": [0.65, 0.45, 0.25],
+    "features": ["Brushed steel case", "Brown leather strap", "Water resistant to 30m", "Date display", "Mineral crystal glass", "Quartz movement"]
+  },
+  {
+    "id": 5,
+    "name": "Smart Digital",
+    "image": "watch-smart-digital",
+    "price": 349,
+    "description": "A cutting-edge digital smartwatch with health and fitness tracking capabilities. This modern timepiece features a vibrant color touchscreen, customizable watch faces, and a sleek silicone strap. The Smart Digital watch connects to your phone for notifications and offers heart rate monitoring, sleep tracking, and multiple workout modes.",
+    "color": [0.3, 0.3, 0.35],
+    "features": ["Touchscreen display", "Heart rate monitor", "Sleep tracking", "Smartphone notifications", "20+ workout modes", "Water resistant to 50m", "7-day battery life"]
+  },
+  {
+    "id": 6,
+    "name": "Vintage Leather",
+    "image": "watch-vintage-leather",
+    "price": 279,
+    "description": "A nostalgic watch inspired by classic designs from the mid-20th century. This vintage-style timepiece features an aged leather strap, cream dial with retro typography, and a domed crystal. The Vintage Leather watch brings timeless appeal to your wrist, combining historical aesthetics with modern reliability.",
+    "color": [0.55, 0.35, 0.2],
+    "features": ["Brass-tone case", "Aged leather strap", "Domed crystal glass", "Vintage-inspired dial", "Japanese quartz movement", "Limited edition numbering"]
+  }
+]

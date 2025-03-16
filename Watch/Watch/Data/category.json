@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Luxury",
+    "image": "Luxury-icon"
+  },
+  {
+    "id": 2,
+    "name": "Classic",
+    "image": "Classic-icon"
+  },
+  {
+    "id": 3,
+    "name": "Sport",
+    "image": "Sport-icon"
+  },
+  {
+    "id": 4,
+    "name": "Digital",
+    "image": "Digital-icon"
+  },
+  {
+    "id": 5,
+    "name": "Casual",
+    "image": "Casual-icon"
+  },
+  {
+    "id": 6,
+    "name": "Vintage",
+    "image": "Vintage-icon"
+  }
+]
